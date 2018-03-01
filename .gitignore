@@ -1,0 +1,8 @@
+.idea/*
+.idea/
+/\.idea*
+/.idea
+.git/
+node_modules/
+*.json
+*.csv
